@@ -1,0 +1,3 @@
+Trial number, left pinning point contact angle, right pinning point contact angle, flag for error
+1,26.07957505025579,21.529468174914303,False
+2,47.44442432418098,49.55110663684701,False
